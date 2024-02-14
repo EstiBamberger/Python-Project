@@ -1,0 +1,3 @@
+test@example.com
+invalid_email
+another@test.com
